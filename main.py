@@ -1,5 +1,4 @@
 import asyncio
-
 from bots import Example1Bot
 from environment.FixedLimitPoker import FixedLimitPoker
 from environment.observers.LoggingObserver import LoggingObserver
